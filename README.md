@@ -1,6 +1,12 @@
 # messaging-rabbitmq
 
 https://spring.io/guides/gs/messaging-rabbitmq/
+https://www.rabbitmq.com/tutorials/tutorial-one-java.html
+
+## Background
+
+* RabbitMQ by default runs on port 5672. This is where Spring tries to connect.
+* The RabbitMQ console by default runs on port 15672. Login with 'guest'/'guest'.
 
 ## Prerequisites
 
